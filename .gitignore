@@ -1,0 +1,17 @@
+# IntelliJ project files
+.idea/workspace.xml
+.idea
+.settings
+.project
+.classpath
+.class
+*.iml
+*.bat
+out
+gen
+logs
+target
+bin
+bak
+
+
